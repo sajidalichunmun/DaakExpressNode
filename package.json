@@ -1,0 +1,26 @@
+{
+  "name": "daakexpressnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "color": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sajidalichunmun/DaakExpressNode.git"
+  },
+  "keywords": [
+    "sajid"
+  ],
+  "author": "Sajid Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajidalichunmun/DaakExpressNode/issues"
+  },
+  "homepage": "https://github.com/sajidalichunmun/DaakExpressNode#readme"
+}
